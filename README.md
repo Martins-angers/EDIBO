@@ -1,2 +1,2 @@
 # EDIBO
-EDIBO project electronic notebook
+*EDIBO project electronic notebook*
