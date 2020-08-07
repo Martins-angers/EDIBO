@@ -1,0 +1,36 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  nano
+    4  whowho
+    5  who
+    6  exit
+    7  sh
+    8  sh
+    9  ls -l
+   10  git clone https://github.com/MartinsAngers/EDIBO
+   11  ls -lt
+   12  cd EDIBO/
+   13  ls -lt
+   14  ls -lta
+   15  ls
+   16  tree
+   17  ls -lta
+   18  ls -l
+   19  cat
+   20  cat README.md\
+   21  cat README.md
+   22  hextdump -C README.md
+   23  hexdump -C README.md
+   24  nano README.md 
+   25  cat README.md
+   26  history > history_20200807a.txt
+   27  ls -lt
+   28  pwd
+   29  nano README.md 
+   30  git config --global user.email angers.martins@gmail.com
+   31  git add .
+   32  git commit -m "20200807_13_30_pirmais_upload_no_cmd_line"
+   33  git push origin master
+   34  angers.martins@gmail.com
+   35  git push origin master
+   36  history > history_20200807b.txt
