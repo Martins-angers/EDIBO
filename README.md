@@ -5,8 +5,3 @@
 - Terminal (hot-keys)
 - Shell (Basics)
 - Git (Basics)
-
-#### Tests
-Teksts1 
-Teksts2  
-Teksts3  
