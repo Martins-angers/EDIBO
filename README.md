@@ -11,7 +11,7 @@ CNTRL + "-" - Zoom Out
 CNTRL + SHIFT + "=" - Zoom in
 CNTRL + 0 - Default Zoom  
 - Shell (Basics)  
-###### Navigating Files and Directories  
+#### Navigating Files and Directories  
 cd "path" - changes the current working directory  
 ls "path" - prints a listing of a specific file or directory  
 ls - on its own lists the current working directory  
@@ -19,14 +19,14 @@ pwd - prints the user's current working directory
 / - is the Root directory of the Whole system  
 .. - means the directory above the current one  
 . - on its own means the current directory  
-###### Working with files and Directories
+#### Working with files and Directories
 cp old new - copies a file  
 mkdir path - creates a new directory  
 mv old new - moves(renames) a file or directory  
-rm path - removes(deletes a file.  
+rm path - removes deletes a file.  
 Use of the Control key may be described in many ways, including Ctrl-X, Control-X, and ^X.  
-###### Pipes and Filters
-cat - displays the contents of its inputs (to exit this command press ^C)  
+#### Pipes and Filters
+cat "file name" - displays the contents of its inputs (to exit this command press ^C)  
 head - displays the first 10 lines of its input.  
 tail - displays the last 10 lines of its input.  
 sort - sort its inputs  
@@ -37,4 +37,7 @@ first | second - is a pipeline: the output of the first command is used as the i
 
 
 
-- Git (Basics)  
+- Git (Basics) 
+- ASCII Table  
+#### ASCII Table
+[ASCII Table] (http://www.ecowin.org/ascii.htm)
