@@ -38,6 +38,12 @@ first | second - is a pipeline: the output of the first command is used as the i
 
 
 - Git (Basics) 
+git clone https://www.github.com/angersmartins/EDIBO
+git config --global user.email angers.martins@gmail.com
+git add .
+git commit -m "20200807_16_25"
+git push origin master
+
 - ASCII Table  
 #### ASCII Table
-[ASCII Table] (http://www.ecowin.org/ascii.htm)
+[ASCII Table](http://www.ecowin.org/ascii.htm)
