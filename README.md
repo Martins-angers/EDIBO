@@ -38,7 +38,7 @@ first | second - is a pipeline: the output of the first command is used as the i
 
 
 - Git (Basics) 
-git clone https://www.github.com/angersmartins/EDIBO
+git clone https://www.github.com/MartinsAngers/EDIBO
 git config --global user.email angers.martins@gmail.com
 git add .
 git commit -m "20200807_16_25"
