@@ -1,0 +1,247 @@
+    1  sudo apy update
+    2  sudo apt update
+    3  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+    4  sudo apt install ./google-chrome-stable_current_amd64.deb
+    5  sudo add-apt-repository universe
+    6  sudo apt install gnome-tweak-tool
+    7  glxgears
+    8  sudo apt install mesa-utils
+    9  glxgears
+   10  pwd
+   11  ls
+   12  rm google-chrome-stable_current_amd64.deb 
+   13  PWD
+   14  mkdir GitHub
+   15  ls
+   16  cd GitHub/
+   17  ls
+   18  pwd
+   19  git clone https://www.github.com/MartinsAngers/EDIBO
+   20  sudo apt install git
+   21  git clone https://www.github.com/MartinsAngers/EDIBO
+   22  ls -l
+   23  ls
+   24  cd EDIBO/
+   25  ls
+   26  cat Dec\ Hex\ Bin 
+   27  cat README.md 
+   28  ls
+   29  ls -la
+   30  ls -lahtr
+   31  ls -la
+   32  cat README.md 
+   33  cat README.md | gzip > rm.md.gz
+   34  cat rm.md.gz 
+   35  zcat rm.md.gz 
+   36  clear
+   37  l
+   38  sudo apt install htop
+   39  htop
+   40  top
+   41  htop
+   42  clear
+   43  htop
+   44  cd pwd
+   45  pwd
+   46  cd GitHub/
+   47  cd EDIBO/
+   48  pwd
+   49  sudo apt install snap
+   50  git
+   51  cd ..
+   52  nano D.dat
+   53  ls
+   54  ls -lta
+   55  ls -ltar
+   56  ls -la
+   57  ls
+   58  git clone https://github.com/MartinsAngers/EDIBO
+   59  ls
+   60  cd EDIBO/
+   61  ls
+   62  mkdir SHELL
+   63  cd SHELL/
+   64  pwd
+   65  nano Day04.txt
+   66  htop
+   67  nano array_values.sh 
+   68  ./array_values.sh 
+   69  ls
+   70  mkdir basic_operators.sh
+   71  cd basic_operators.sh/
+   72  nano test.sh
+   73  ls
+   74  chmod 744 test.sh
+   75  ./test.sh 
+   76  nano test.sh 
+   77  ./test.sh 
+   78  nano test.sh 
+   79  ls -l
+   80  htop
+   81  ls -lprm
+   82  ls -larm
+   83  ls -
+   84  ls -lpr
+   85  ls -lshw
+   86  ls --lshw
+   87  chrome &
+   88  pwd
+   89  cd EDIBO/
+   90  nano README.md 
+   91  git add .
+   92  git add README.md 
+   93  git push origin master
+   94  cd SHELL/
+   95  pwd
+   96  ls -l
+   97  nano test.sh
+   98  ls -lt
+   99  nano test.sh
+  100  ls -lt
+  101  chmod 744 test.sh
+  102  ls -lt
+  103  test.sh
+  104  ./test.sh
+  105  nano test.sh
+  106  ./test.sh
+  107  m1="a"
+  108  m2="b"
+  109  nano variables_v1.sh
+  110  chmod 744 variables_v1.sh 
+  111  ./variables_v1.sh 
+  112  nano variables_v1.sh 
+  113  ./variables_v1.sh 
+  114  nano variables_v1.sh 
+  115  ./variables_v1.sh 
+  116  nano variables_v1.sh 
+  117  ./variables_v1.sh 
+  118  nano variables_v1.sh 
+  119  ./variables_v1.sh 
+  120  nano variables_v1.sh 
+  121  ./variables_v2.sh 
+  122  chmod 744 variables_v2.sh
+  123  ./variables_v2.sh 
+  124  nano variables_v2.sh 
+  125  ./variables_v2.sh 
+  126  pwd
+  127  ls
+  128  ./variables_v2.sh
+  129  nano variables_v
+  130  nano variables_v2.sh 
+  131  ./variables_v2.sh
+  132  nano S_variables_v1.sh
+  133  ls
+  134  chmod 744 S_variables_v1.sh 
+  135  ./S_variables_v1.sh 
+  136  $./S_variables_v1.sh 
+  137  #!/bin/sh
+  138  echo "File Name: $0"
+  139  echo "First Parameter : $1"
+  140  echo "Second Parameter : $2"
+  141  echo "Quoted Values: $@"
+  142  echo "Quoted Values: $*"
+  143  echo "Total Number of Parameters : $#"
+  144  $./S_variables_v1.sh 
+  145  ./S_variables_v1.sh 
+  146  ls -l
+  147  ./test.sh 
+  148  nano test.sh
+  149  ./test.sh Zara Ali
+  150  nano test2.sh
+  151  chmod 744 test2.sh
+  152  ./test.sh Zara Ali 10 Years Old
+  153  ./test2.sh Zara Ali 10 Years Old
+  154  nano array_name.sh
+  155  rm array_name.sh
+  156  lf
+  157  ls -l
+  158  nano array_values.sh
+  159  ls -la
+  160  sudo array_values.sh
+  161  chmod 744 array_values.sh 
+  162  ./array_values.sh 
+  163  nano array_values.sh 
+  164  ./array_values.sh 
+  165  nano array_values.sh 
+  166  ./array_values.sh 
+  167  ls -l
+  168  ./array_values.sh 
+  169  array
+  170  nano array_values.sh 
+  171  ksh
+  172  sudo apt install ksh
+  173  nano array_values.sh 
+  174  ./array_values.sh 
+  175  nano array_values.sh 
+  176  ./array_values.sh 
+  177  pwd
+  178  bash
+  179  cd SHELL/
+  180  nano Day04.txt 
+  181  pwd
+  182  git add .
+  183  pwd
+  184  cd ..
+  185  ls -l
+  186  cat README.md 
+  187  git config --global user.email angers.martins@gmail.com
+  188  git add .
+  189  git push origin master
+  190  git commit -m "20200811_22_40"
+  191  history > history_20200811a.txt
+  192  git commit -m "20200811_22_40"
+  193  git add history_20200811a.txt 
+  194  push origin master
+  195  git push origin master
+  196  ./array_values.sh 
+  197  nano array_values.sh 
+  198  ./array_values.sh 
+  199  nano array_values.sh 
+  200  ./array_values.sh 
+  201  nano array_values.sh 
+  202  ./array_values.sh 
+  203  sh
+  204  nano fib.sh
+  205  ./fib.sh
+  206  nano fib.sh
+  207  ./fib.sh
+  208  nano fib.sh
+  209  ./fib.sh
+  210  nano fib.sh
+  211  ./fib.sh
+  212  nano fib.sh
+  213  ./fib.sh
+  214  clear
+  215  cd ..
+  216  cd Python/
+  217  python
+  218  python3
+  219  python
+  220  python3
+  221  ipython
+  222  sudo apt install ipython3
+  223  python
+  224  sudo apt install python
+  225  ipython
+  226  ipython3
+  227  python
+  228  python -V
+  229  nano first_python_script.py
+  230  ls -l
+  231  python first_python_script.py 
+  232  python3 first_python_script.py 
+  233  cp first_python_script.py second_python_script_like executable.py 
+  234  cp first_python_script.py second_python_script_like_executable.py 
+  235  pwd
+  236  ls -l
+  237  chmod 744 second_python_script_like_executable.py 
+  238  chmod 744 first_python_script.py 
+  239  pwd
+  240  ls-l
+  241  ls -l
+  242  idle
+  243  idle &
+  244  idle
+  245  idle &
+  246  history
+  247  history > history_20200812c.txt

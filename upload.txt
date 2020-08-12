@@ -1,0 +1,7 @@
+
+#! /bin/bash
+
+git config -- global user.email
+git add .
+git commit -m "sadasdasd"
+git push origin master

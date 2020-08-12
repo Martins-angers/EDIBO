@@ -1,0 +1,63 @@
+    1  sudo apy update
+    2  sudo apt update
+    3  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+    4  sudo apt install ./google-chrome-stable_current_amd64.deb
+    5  sudo add-apt-repository universe
+    6  sudo apt install gnome-tweak-tool
+    7  glxgears
+    8  sudo apt install mesa-utils
+    9  glxgears
+   10  pwd
+   11  ls
+   12  rm google-chrome-stable_current_amd64.deb 
+   13  PWD
+   14  mkdir GitHub
+   15  ls
+   16  cd GitHub/
+   17  ls
+   18  pwd
+   19  git clone https://www.github.com/MartinsAngers/EDIBO
+   20  sudo apt install git
+   21  git clone https://www.github.com/MartinsAngers/EDIBO
+   22  ls -l
+   23  ls
+   24  cd EDIBO/
+   25  ls
+   26  cat Dec\ Hex\ Bin 
+   27  cat README.md 
+   28  ls
+   29  ls -la
+   30  ls -lahtr
+   31  ls -la
+   32  cat README.md 
+   33  cat README.md | gzip > rm.md.gz
+   34  cat rm.md.gz 
+   35  zcat rm.md.gz 
+   36  clear
+   37  l
+   38  sudo apt install htop
+   39  htop
+   40  top
+   41  htop
+   42  clear
+   43  htop
+   44  cd pwd
+   45  pwd
+   46  cd GitHub/
+   47  cd EDIBO/
+   48  pwd
+   49  sudo apt install snap
+   50  git
+   51  cd SHELL/
+   52  nano Day04.txt 
+   53  pwd
+   54  git add .
+   55  pwd
+   56  cd ..
+   57  ls -l
+   58  cat README.md 
+   59  git config --global user.email angers.martins@gmail.com
+   60  git add .
+   61  git push origin master
+   62  git commit -m "20200811_22_40"
+   63  history > history_20200811a.txt
