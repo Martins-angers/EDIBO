@@ -1,0 +1,569 @@
+    1  sudo apy update
+    2  sudo apt update
+    3  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+    4  sudo apt install ./google-chrome-stable_current_amd64.deb
+    5  sudo add-apt-repository universe
+    6  sudo apt install gnome-tweak-tool
+    7  glxgears
+    8  sudo apt install mesa-utils
+    9  glxgears
+   10  pwd
+   11  ls
+   12  rm google-chrome-stable_current_amd64.deb 
+   13  PWD
+   14  mkdir GitHub
+   15  ls
+   16  cd GitHub/
+   17  ls
+   18  pwd
+   19  git clone https://www.github.com/MartinsAngers/EDIBO
+   20  sudo apt install git
+   21  git clone https://www.github.com/MartinsAngers/EDIBO
+   22  ls -l
+   23  ls
+   24  cd EDIBO/
+   25  ls
+   26  cat Dec\ Hex\ Bin 
+   27  cat README.md 
+   28  ls
+   29  ls -la
+   30  ls -lahtr
+   31  ls -la
+   32  cat README.md 
+   33  cat README.md | gzip > rm.md.gz
+   34  cat rm.md.gz 
+   35  zcat rm.md.gz 
+   36  clear
+   37  l
+   38  sudo apt install htop
+   39  htop
+   40  top
+   41  htop
+   42  clear
+   43  htop
+   44  cd pwd
+   45  pwd
+   46  cd GitHub/
+   47  cd EDIBO/
+   48  pwd
+   49  sudo apt install snap
+   50  git
+   51  cd ..
+   52  nano D.dat
+   53  ls
+   54  ls -lta
+   55  ls -ltar
+   56  ls -la
+   57  ls
+   58  git clone https://github.com/MartinsAngers/EDIBO
+   59  ls
+   60  cd EDIBO/
+   61  ls
+   62  mkdir SHELL
+   63  cd SHELL/
+   64  pwd
+   65  nano Day04.txt
+   66  htop
+   67  nano array_values.sh 
+   68  ./array_values.sh 
+   69  ls
+   70  mkdir basic_operators.sh
+   71  cd basic_operators.sh/
+   72  nano test.sh
+   73  ls
+   74  chmod 744 test.sh
+   75  ./test.sh 
+   76  nano test.sh 
+   77  ./test.sh 
+   78  nano test.sh 
+   79  ls -l
+   80  htop
+   81  ls -lprm
+   82  ls -larm
+   83  ls -
+   84  ls -lpr
+   85  ls -lshw
+   86  ls --lshw
+   87  chrome &
+   88  pwd
+   89  cd EDIBO/
+   90  nano README.md 
+   91  git add .
+   92  git add README.md 
+   93  git push origin master
+   94  cd SHELL/
+   95  pwd
+   96  ls -l
+   97  nano test.sh
+   98  ls -lt
+   99  nano test.sh
+  100  ls -lt
+  101  chmod 744 test.sh
+  102  ls -lt
+  103  test.sh
+  104  ./test.sh
+  105  nano test.sh
+  106  ./test.sh
+  107  m1="a"
+  108  m2="b"
+  109  nano variables_v1.sh
+  110  chmod 744 variables_v1.sh 
+  111  ./variables_v1.sh 
+  112  nano variables_v1.sh 
+  113  ./variables_v1.sh 
+  114  nano variables_v1.sh 
+  115  ./variables_v1.sh 
+  116  nano variables_v1.sh 
+  117  ./variables_v1.sh 
+  118  nano variables_v1.sh 
+  119  ./variables_v1.sh 
+  120  nano variables_v1.sh 
+  121  ./variables_v2.sh 
+  122  chmod 744 variables_v2.sh
+  123  ./variables_v2.sh 
+  124  nano variables_v2.sh 
+  125  ./variables_v2.sh 
+  126  pwd
+  127  ls
+  128  ./variables_v2.sh
+  129  nano variables_v
+  130  nano variables_v2.sh 
+  131  ./variables_v2.sh
+  132  nano S_variables_v1.sh
+  133  ls
+  134  chmod 744 S_variables_v1.sh 
+  135  ./S_variables_v1.sh 
+  136  $./S_variables_v1.sh 
+  137  #!/bin/sh
+  138  echo "File Name: $0"
+  139  echo "First Parameter : $1"
+  140  echo "Second Parameter : $2"
+  141  echo "Quoted Values: $@"
+  142  echo "Quoted Values: $*"
+  143  echo "Total Number of Parameters : $#"
+  144  $./S_variables_v1.sh 
+  145  ./S_variables_v1.sh 
+  146  ls -l
+  147  ./test.sh 
+  148  nano test.sh
+  149  ./test.sh Zara Ali
+  150  nano test2.sh
+  151  chmod 744 test2.sh
+  152  ./test.sh Zara Ali 10 Years Old
+  153  ./test2.sh Zara Ali 10 Years Old
+  154  nano array_name.sh
+  155  rm array_name.sh
+  156  lf
+  157  ls -l
+  158  nano array_values.sh
+  159  ls -la
+  160  sudo array_values.sh
+  161  chmod 744 array_values.sh 
+  162  ./array_values.sh 
+  163  nano array_values.sh 
+  164  ./array_values.sh 
+  165  nano array_values.sh 
+  166  ./array_values.sh 
+  167  ls -l
+  168  ./array_values.sh 
+  169  array
+  170  nano array_values.sh 
+  171  ksh
+  172  sudo apt install ksh
+  173  nano array_values.sh 
+  174  ./array_values.sh 
+  175  nano array_values.sh 
+  176  ./array_values.sh 
+  177  pwd
+  178  bash
+  179  cd SHELL/
+  180  nano Day04.txt 
+  181  pwd
+  182  git add .
+  183  pwd
+  184  cd ..
+  185  ls -l
+  186  cat README.md 
+  187  git config --global user.email angers.martins@gmail.com
+  188  git add .
+  189  git push origin master
+  190  git commit -m "20200811_22_40"
+  191  history > history_20200811a.txt
+  192  git commit -m "20200811_22_40"
+  193  git add history_20200811a.txt 
+  194  push origin master
+  195  git push origin master
+  196  ./array_values.sh 
+  197  nano array_values.sh 
+  198  ./array_values.sh 
+  199  nano array_values.sh 
+  200  ./array_values.sh 
+  201  nano array_values.sh 
+  202  ./array_values.sh 
+  203  sh
+  204  pwd
+  205  ls-l
+  206  ls -l
+  207  cd GitHub/EDIBO/
+  208  ls -l
+  209  cd SHELL/
+  210  ls -l
+  211  ./test_var.sh 
+  212  cat test_var.sh 
+  213  nano test_var.sh 
+  214  ./test_var.sh 
+  215  nano test_var.sh 
+  216  ./test_var.sh 
+  217  nano test_var.sh 
+  218  ./test_var.sh 
+  219  man bc
+  220  nano fib.sh
+  221  ./fib.sh
+  222  git clone https://github.com/MartinsAngers/EDIBO
+  223  pwd
+  224  ls
+  225  ls -l
+  226  cd GitHub
+  227  ls -l
+  228  cd EDIBO/
+  229  ls -l
+  230  cd ..
+  231  git clone https://github.com/MartinsAngers/EDIBO
+  232  ls -l
+  233  rm EDIBO/
+  234  rmdir EDIBO/
+  235  cd EDIBO/
+  236  ls -l
+  237  rm Dec\ Hex\ Bin 
+  238  rm history_20200807a.txt 
+  239  rm history_20200807b.txt 
+  240  rm README.md 
+  241  rm rm.md.gz 
+  242  cd ..
+  243  rmdir EDIBO/
+  244  cd EDIBO/
+  245  ls -l
+  246  cd ..
+  247  git clone https://github.com/MartinsAngers/EDIBO
+  248  rmdir EDIBO/
+  249  git clone https://github.com/MartinsAngers/EDIBO
+  250  pwd
+  251  ls-l
+  252  ls -l
+  253  cd EDIBO/
+  254  ls -l
+  255  cd SHELL/
+  256  ls-l
+  257  ls -l
+  258  nano test_var.sh
+  259  ls-l
+  260  ls -l
+  261  chmod 744 test_var.sh
+  262  ./test_var.sh 
+  263  git add .
+  264  ls-l
+  265  ls -l
+  266  ls-l
+  267  ls -
+  268  ls -l
+  269  nano Dec2bin.sh
+  270  ls -l
+  271  chmod 744 Dec2Bin.sh 
+  272  ./Dec2Bin.sh 
+  273  nano Dec2Bin.sh 
+  274  ./Dec2Bin.sh 
+  275  sh
+  276  nano Dec2Bin.sh 
+  277  ./Dec2Bin.sh 
+  278  nano Dec2Bin.sh 
+  279  ./Dec2Bin.sh 
+  280  nano Dec2Bin.sh 
+  281  man bc
+  282  nano Dec2Bin.sh 
+  283  ./Dec2Bin.sh 
+  284  nano Dec2Bin.sh 
+  285  ./Dec2Bin.sh 
+  286  nano Dec2Bin.sh 
+  287  ./Dec2Bin.sh 
+  288  nano Fibbonaci.sh
+  289  chmod 744 Fibbonaci.sh 
+  290  ./Fibbonaci.sh 
+  291  nano Fibbonaci.sh
+  292  ./Fibbonaci.sh 
+  293  nano Fibbonaci.sh
+  294  ./Fibbonaci.sh 
+  295  nano Fibbonaci.sh
+  296  nano fib.sh
+  297  ./Dec2Bin.sh 
+  298  nano Dec2Bin.sh 
+  299  ./Dec2Bin.sh 
+  300  ./Dec2Bin.sh 30
+  301  ./Dec2Bin.sh
+  302  nano fib.sh
+  303  chmod 744 fib.sh
+  304  ./fib.sh
+  305  nano first_python_script.py 
+  306  nano second_python_script_like_executable.py 
+  307  ./second_python_script_like_executable.py 
+  308  ls -la
+  309  ls -lar
+  310  idle
+  311  sudo apt install idle
+  312  idle
+  313  idle &
+  314  cd ..
+  315  histyory
+  316  history
+  317  history > history_20200812a.txt
+  318  exit
+  319  nano README.md 
+  320  history
+  321  history > history_20200812b.txt
+  322  pwd
+  323  cd ..
+  324  pwd
+  325  git add .
+  326  git push origin master
+  327  cd SHELL/
+  328  nano fib.sh 
+  329  nano fib.sh
+  330  ./fib.sh
+  331  nano fib.sh
+  332  ./fib.sh
+  333  nano fib.sh
+  334  ./fib.sh
+  335  nano fib.sh
+  336  ./fib.sh
+  337  nano fib.sh
+  338  ./fib.sh
+  339  clear
+  340  cd ..
+  341  cd Python/
+  342  python
+  343  python3
+  344  python
+  345  python3
+  346  ipython
+  347  sudo apt install ipython3
+  348  python
+  349  sudo apt install python
+  350  ipython
+  351  ipython3
+  352  python
+  353  python -V
+  354  nano first_python_script.py
+  355  ls -l
+  356  python first_python_script.py 
+  357  python3 first_python_script.py 
+  358  cp first_python_script.py second_python_script_like executable.py 
+  359  cp first_python_script.py second_python_script_like_executable.py 
+  360  pwd
+  361  ls -l
+  362  chmod 744 second_python_script_like_executable.py 
+  363  chmod 744 first_python_script.py 
+  364  pwd
+  365  ls-l
+  366  ls -l
+  367  idle
+  368  idle &
+  369  idle
+  370  idle &
+  371  history
+  372  history > history_20200812c.txt
+  373  config --global user.email angers.martins@gmail.com
+  374  git config --global user.email angers.martins@gmail.com
+  375  cd /home/martin/EDIBO
+  376  pwd
+  377  git add .
+  378  git commit -m "20200812_17_15"
+  379  git push origin master
+  380  nano upload.txt 
+  381  git add .
+  382  git push origin master
+  383  git commit -m "20200812_17_20"
+  384  git push origin master
+  385  ls -lta
+  386  git upload
+  387  git -upload
+  388  git upload
+  389  git --help
+  390  ls -lahtr
+  391  ls -laht
+  392  ls -lahtr
+  393  cd Python/
+  394  python3
+  395  ipython3.8
+  396  python
+  397  python3.8
+  398  ipython3 
+  399  pwd
+  400  ls -l
+  401  cd GitHub/EDIBO/
+  402  cd SHELL/
+  403  ls-l
+  404  tree
+  405  sudo apt install tree
+  406  tree
+  407  ./Dec2Bin.sh
+  408  man while
+  409  man -lt
+  410  pwd
+  411  ls -l
+  412  nano D2B.sh
+  413  chmod 744 D2B.sh 
+  414  ./D2B.sh 
+  415  ./D2B.sh 5
+  416  ./D2B.sh 1000
+  417  python &
+  418  cd home/
+  419  ls -l
+  420  pwd
+  421  cd /home
+  422  python -V
+  423  python3 -V
+  424  cd..
+  425  cd ..
+  426  pwd
+  427  cd /home
+  428  pwd
+  429  ls -l
+  430  cd martin/
+  431  ls -l
+  432  cd GitHub/EDIBO/
+  433  ls -l
+  434  mkdir Python
+  435  ls -l
+  436  cd Python/
+  437  pwd
+  438  nano README.md
+  439  history
+  440  history > history_20200812d.txt
+  441  git upload
+  442  git commit -m "20200812_17_15"
+  443  cd ..
+  444  nano upload.txt
+  445  git add .
+  446  git push origin master
+  447  cd /home
+  448  ls
+  449  cd martin/EDIBO
+  450  pwd
+  451  git add .
+  452  git push origin master
+  453  ls
+  454  cd SHELL
+  455  ls
+  456  ls -lahtr
+  457  cat D2B.sh 
+  458  nano D2B.sh 
+  459  ls -l
+  460  ls -lr
+  461  ./Fibbonaci.sh 
+  462  nano Fibbonaci.sh 
+  463  python3
+  464  ipython
+  465  ipython3
+  466  python3 -V
+  467  ipython3
+  468  pwd
+  469  cd
+  470  pwd
+  471  ls- la
+  472  ls -la
+  473  ls -lahtr
+  474  cd Python/
+  475  cd Ed
+  476  cd EDIBO/
+  477  cd Python/
+  478  ls-l
+  479  ipython3
+  480  sudo apt uninstall python
+  481  nano python_script_time.py 
+  482  time ./python_script_time.py 
+  483  nano python_script_time.py 
+  484  time ./python_script_time.py 
+  485  nano python_script_time.py 
+  486  time ./python_script_time.py 
+  487  nano python_script_time.py 
+  488  time ./python_script_time.py 
+  489  nano python_script_time.py 
+  490  time ./python_script_time.py 
+  491  wc
+  492  bash
+  493  ./python_script_time.py > 01.dat
+  494  ls-lahtr
+  495  ls -lahtr
+  496  wc python_script_time.py 
+  497  vim python_script_time.py 
+  498  sudo apt install vim
+  499  vim python_script_time.py 
+  500  python2
+  501  htop
+  502  ls-lahtr
+  503  ls -lahtr
+  504  nano python_script_time.py
+  505  chmod 744 python_script_time.py 
+  506  ./ python_script_time.py 
+  507  ./python_script_time.py 
+  508  python3 python_script_time.py 
+  509  nano python_script_time.py 
+  510  python3 python_script_time.py 
+  511  time ./python_script_time.py 
+  512  nano python_script_time.py 
+  513  time ./python_script_time.py 
+  514  python3
+  515  ipython3
+  516  nano python_script_time.py 
+  517  ./python_script_time.py 
+  518  nano python_script_time.py 
+  519  ./python_script_time.py 
+  520  nano python_script_time.py 
+  521  time ./python_script_time.py 
+  522  nano python_script_time.py 
+  523  time ./python_script_time.py 
+  524  nano python_script_time.py 
+  525  time ./python_script_time.py 
+  526  nano python_script_time.py 
+  527  time ./python_script_time.py 
+  528  ./python_script_time.py 
+  529  nano python_script_time.py 
+  530  ./python_script_time.py 
+  531  nano python_script_time.py 
+  532  ./python_script_time.py 
+  533  10
+  534  ./python_script_time.py 
+  535  nano python_script_time.py 
+  536  ./python_script_time.py 
+  537  nano python_script_time.py 
+  538  ./python_script_time.py 
+  539  nano python_script_time.py 
+  540  ./python_script_time.py 
+  541  nano python_script_time.py 
+  542  python3 python_script_time.py 
+  543  nano python_script_time.py 
+  544  ./python_script_time.py 
+  545  nano python_script_time.py 
+  546  ./python_script_time.py 
+  547  nano python_script_time.py 
+  548  ./python_script_time.py 
+  549  read
+  550  bash
+  551  pwd
+  552  ls
+  553  nano python_script_time.py 
+  554  ./python_script_time.py 10
+  555  nano python_script_time.py 
+  556  ls -lahtr
+  557  nano python_script_time.py 
+  558  ./python_script_time.py 
+  559  nano python_script_time.py 
+  560  ./python_script_time.py 
+  561  ls -lahtr
+  562  cat 02.ipython.txt 
+  563  ./python_script_time.py 
+  564  nano python_script_time.py 
+  565  ipython3
+  566  ls
+  567  cd EDIBO/Python/
+  568  ipython3
+  569  history > f.dat
