@@ -1,6 +1,4 @@
 #!/bin/sh
 
-for TOKEN in $*
-do
-   echo $TOKEN
-done
+val=`expr 10 /= 2`
+echo "$val"

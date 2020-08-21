@@ -1,5 +1,5 @@
 #! /bin/bash
 
-echo
-read N
-echo "ibase=10;obase=2;$N" | bc
+Dec2Bin=({0..1}{0..1}{0..1}{0..1}{0..1}{0..1}{0..1}{0..1}{0..1}{0..1})
+read Num
+echo ${Dec2Bin[$Num]}

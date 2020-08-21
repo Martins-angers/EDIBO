@@ -1,0 +1,13 @@
+/home/martin/EDIBO/dotnetproject/bin/Debug/netcoreapp3.1/dotnetproject
+/home/martin/EDIBO/dotnetproject/bin/Debug/netcoreapp3.1/dotnetproject.deps.json
+/home/martin/EDIBO/dotnetproject/bin/Debug/netcoreapp3.1/dotnetproject.runtimeconfig.json
+/home/martin/EDIBO/dotnetproject/bin/Debug/netcoreapp3.1/dotnetproject.runtimeconfig.dev.json
+/home/martin/EDIBO/dotnetproject/bin/Debug/netcoreapp3.1/dotnetproject.dll
+/home/martin/EDIBO/dotnetproject/bin/Debug/netcoreapp3.1/dotnetproject.pdb
+/home/martin/EDIBO/dotnetproject/obj/Debug/netcoreapp3.1/dotnetproject.csprojAssemblyReference.cache
+/home/martin/EDIBO/dotnetproject/obj/Debug/netcoreapp3.1/dotnetproject.AssemblyInfoInputs.cache
+/home/martin/EDIBO/dotnetproject/obj/Debug/netcoreapp3.1/dotnetproject.AssemblyInfo.cs
+/home/martin/EDIBO/dotnetproject/obj/Debug/netcoreapp3.1/dotnetproject.csproj.CoreCompileInputs.cache
+/home/martin/EDIBO/dotnetproject/obj/Debug/netcoreapp3.1/dotnetproject.dll
+/home/martin/EDIBO/dotnetproject/obj/Debug/netcoreapp3.1/dotnetproject.pdb
+/home/martin/EDIBO/dotnetproject/obj/Debug/netcoreapp3.1/dotnetproject.genruntimeconfig.cache

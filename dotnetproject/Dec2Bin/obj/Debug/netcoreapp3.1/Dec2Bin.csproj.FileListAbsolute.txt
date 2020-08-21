@@ -1,0 +1,13 @@
+/home/martin/EDIBO/dotnetproject/Dec2Bin/bin/Debug/netcoreapp3.1/Dec2Bin
+/home/martin/EDIBO/dotnetproject/Dec2Bin/bin/Debug/netcoreapp3.1/Dec2Bin.deps.json
+/home/martin/EDIBO/dotnetproject/Dec2Bin/bin/Debug/netcoreapp3.1/Dec2Bin.runtimeconfig.json
+/home/martin/EDIBO/dotnetproject/Dec2Bin/bin/Debug/netcoreapp3.1/Dec2Bin.runtimeconfig.dev.json
+/home/martin/EDIBO/dotnetproject/Dec2Bin/bin/Debug/netcoreapp3.1/Dec2Bin.dll
+/home/martin/EDIBO/dotnetproject/Dec2Bin/bin/Debug/netcoreapp3.1/Dec2Bin.pdb
+/home/martin/EDIBO/dotnetproject/Dec2Bin/obj/Debug/netcoreapp3.1/Dec2Bin.csprojAssemblyReference.cache
+/home/martin/EDIBO/dotnetproject/Dec2Bin/obj/Debug/netcoreapp3.1/Dec2Bin.AssemblyInfoInputs.cache
+/home/martin/EDIBO/dotnetproject/Dec2Bin/obj/Debug/netcoreapp3.1/Dec2Bin.AssemblyInfo.cs
+/home/martin/EDIBO/dotnetproject/Dec2Bin/obj/Debug/netcoreapp3.1/Dec2Bin.csproj.CoreCompileInputs.cache
+/home/martin/EDIBO/dotnetproject/Dec2Bin/obj/Debug/netcoreapp3.1/Dec2Bin.dll
+/home/martin/EDIBO/dotnetproject/Dec2Bin/obj/Debug/netcoreapp3.1/Dec2Bin.pdb
+/home/martin/EDIBO/dotnetproject/Dec2Bin/obj/Debug/netcoreapp3.1/Dec2Bin.genruntimeconfig.cache

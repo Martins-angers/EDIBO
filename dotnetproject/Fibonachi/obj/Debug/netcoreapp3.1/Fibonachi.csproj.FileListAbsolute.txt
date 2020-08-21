@@ -1,0 +1,13 @@
+/home/martin/EDIBO/dotnetproject/Fibonachi/bin/Debug/netcoreapp3.1/Fibonachi
+/home/martin/EDIBO/dotnetproject/Fibonachi/bin/Debug/netcoreapp3.1/Fibonachi.deps.json
+/home/martin/EDIBO/dotnetproject/Fibonachi/bin/Debug/netcoreapp3.1/Fibonachi.runtimeconfig.json
+/home/martin/EDIBO/dotnetproject/Fibonachi/bin/Debug/netcoreapp3.1/Fibonachi.runtimeconfig.dev.json
+/home/martin/EDIBO/dotnetproject/Fibonachi/bin/Debug/netcoreapp3.1/Fibonachi.dll
+/home/martin/EDIBO/dotnetproject/Fibonachi/bin/Debug/netcoreapp3.1/Fibonachi.pdb
+/home/martin/EDIBO/dotnetproject/Fibonachi/obj/Debug/netcoreapp3.1/Fibonachi.csprojAssemblyReference.cache
+/home/martin/EDIBO/dotnetproject/Fibonachi/obj/Debug/netcoreapp3.1/Fibonachi.AssemblyInfoInputs.cache
+/home/martin/EDIBO/dotnetproject/Fibonachi/obj/Debug/netcoreapp3.1/Fibonachi.AssemblyInfo.cs
+/home/martin/EDIBO/dotnetproject/Fibonachi/obj/Debug/netcoreapp3.1/Fibonachi.csproj.CoreCompileInputs.cache
+/home/martin/EDIBO/dotnetproject/Fibonachi/obj/Debug/netcoreapp3.1/Fibonachi.dll
+/home/martin/EDIBO/dotnetproject/Fibonachi/obj/Debug/netcoreapp3.1/Fibonachi.pdb
+/home/martin/EDIBO/dotnetproject/Fibonachi/obj/Debug/netcoreapp3.1/Fibonachi.genruntimeconfig.cache
