@@ -5,7 +5,7 @@ echo $NAME
 echo $$
 
 a=0
-while [ "$a" -lt 50 ]    # this is loop1
+while [ "$a" -lt 10 ]    # this is loop1
 do
    b="$a"
    while [ "$b" -ge 0 ]  # this is loop2
