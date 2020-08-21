@@ -38,11 +38,11 @@ first | second - is a pipeline: the output of the first command is used as the i
 
 
 - Git (Basics) 
-git clone https://www.github.com/MartinsAngers/EDIBO n/
-git config --global user.email angers.martins@gmail.com n/
-git add . n/
-git commit -m "%Y%M%D_%H_%M" n/
-git push origin master n/
+git clone https://www.github.com/MartinsAngers/EDIBO  
+git config --global user.email angers.martins@gmail.com  
+git add .  
+git commit -m "%Y%M%D_%H_%M"  
+git push origin master  
 
 - ASCII Table  
 #### ASCII Table
