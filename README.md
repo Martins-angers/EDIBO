@@ -48,4 +48,6 @@ git push origin master
 #### ASCII Table
 [ASCII Table](http://www.ecowin.org/ascii.htm)
 
+[MySQL_commands](https://www3.ntu.edu.sg/home/ehchua/programming/sql/MySQL_Beginner.html)
+
 
